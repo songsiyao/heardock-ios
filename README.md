@@ -1,6 +1,6 @@
 # Heardock iOS SDK
 
-## [Visit Heardock.com](https://heardock.com)
+## [Heardock.com](https://heardock.com)
 
 **Every app. Every user. Heard.** One private inbox for feedback from every app and website you ship.
 
