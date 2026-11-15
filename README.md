@@ -1,5 +1,9 @@
 # Heardock iOS SDK
 
+## [Visit Heardock.com](https://heardock.com)
+
+**Every app. Every user. Heard.** One private inbox for feedback from every app and website you ship.
+
 Native Swift packages for collecting private user feedback with Heardock. Includes a headless Core client, SwiftUI feedback UI, context capture, device identity, an offline queue, and caller-provided localization.
 
 ## Requirements
